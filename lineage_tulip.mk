@@ -28,7 +28,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := twolip
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := lineage_twolip
+PRODUCT_NAME := lineage_tulip
 PRODUCT_MODEL := Redmi Note 6 Pro
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
